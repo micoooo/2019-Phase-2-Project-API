@@ -1,0 +1,14 @@
+C:\Users\Michael\source\repos\TODOlistAPI\TODOlistAPI\bin\Debug\netcoreapp2.1\TODOlistAPI.deps.json
+C:\Users\Michael\source\repos\TODOlistAPI\TODOlistAPI\bin\Debug\netcoreapp2.1\TODOlistAPI.runtimeconfig.json
+C:\Users\Michael\source\repos\TODOlistAPI\TODOlistAPI\bin\Debug\netcoreapp2.1\TODOlistAPI.runtimeconfig.dev.json
+C:\Users\Michael\source\repos\TODOlistAPI\TODOlistAPI\bin\Debug\netcoreapp2.1\TODOlistAPI.dll
+C:\Users\Michael\source\repos\TODOlistAPI\TODOlistAPI\bin\Debug\netcoreapp2.1\TODOlistAPI.pdb
+C:\Users\Michael\source\repos\TODOlistAPI\TODOlistAPI\obj\Debug\netcoreapp2.1\TODOlistAPI.csprojAssemblyReference.cache
+C:\Users\Michael\source\repos\TODOlistAPI\TODOlistAPI\obj\Debug\netcoreapp2.1\TODOlistAPI.csproj.CoreCompileInputs.cache
+C:\Users\Michael\source\repos\TODOlistAPI\TODOlistAPI\obj\Debug\netcoreapp2.1\TODOlistAPI.RazorAssemblyInfo.cache
+C:\Users\Michael\source\repos\TODOlistAPI\TODOlistAPI\obj\Debug\netcoreapp2.1\TODOlistAPI.RazorAssemblyInfo.cs
+C:\Users\Michael\source\repos\TODOlistAPI\TODOlistAPI\obj\Debug\netcoreapp2.1\TODOlistAPI.AssemblyInfoInputs.cache
+C:\Users\Michael\source\repos\TODOlistAPI\TODOlistAPI\obj\Debug\netcoreapp2.1\TODOlistAPI.AssemblyInfo.cs
+C:\Users\Michael\source\repos\TODOlistAPI\TODOlistAPI\obj\Debug\netcoreapp2.1\TODOlistAPI.RazorTargetAssemblyInfo.cache
+C:\Users\Michael\source\repos\TODOlistAPI\TODOlistAPI\obj\Debug\netcoreapp2.1\TODOlistAPI.dll
+C:\Users\Michael\source\repos\TODOlistAPI\TODOlistAPI\obj\Debug\netcoreapp2.1\TODOlistAPI.pdb
