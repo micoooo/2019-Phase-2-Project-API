@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{AB30F248-808B-4354-A9EE-C511590D33D8}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="TODOlistAPI/Startup.cs">
+    <Files>
+      <File FileName="TODOlistAPI/Startup.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="TODOlistAPI" expanded="True">
+            <Node name="TODOlistAPI" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Startup.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.TODOlistAPI PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

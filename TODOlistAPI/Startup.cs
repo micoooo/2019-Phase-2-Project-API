@@ -12,6 +12,7 @@ using Microsoft.Extensions.Logging;
 using Microsoft.Extensions.Options;
 using TODOlistAPI.Model;
 using Swashbuckle.AspNetCore.Swagger;
+using Microsoft.EntityFrameworkCore;
 
 namespace TODOlistAPI
 {
@@ -28,7 +29,7 @@ namespace TODOlistAPI
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_1);
-            services.AddDbContext<TODOlistContext>();
+            services.AddDbContext<TODOlistContext>(options => options.UseSqlServer("Server=tcp:todoolist.database.windows.net,1433;Initial Catalog=TODOlist;Persist Security Info=False;User ID=micoo;Password=Lollies1;MultipleActiveResultSets=False;Encrypt=True;TrustServerCertificate=False;Connection Timeout=30;"));
 
             // Register the Swagger generator, defining 1 or more Swagger documents
             services.AddSwaggerGen(c =>
