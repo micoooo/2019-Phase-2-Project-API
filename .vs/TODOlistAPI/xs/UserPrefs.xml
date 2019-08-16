@@ -1,18 +1,28 @@
 ﻿<Properties StartupConfiguration="{AB30F248-808B-4354-A9EE-C511590D33D8}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="TODOlistAPI/Startup.cs">
+  <MonoDevelop.Ide.ItemProperties.TodoAPIUnitTests FirstBuild="True" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="TodoAPIUnitTests/TodoCountrollerUnitTests.cs">
     <Files>
       <File FileName="TODOlistAPI/Startup.cs" Line="54" Column="37" />
       <File FileName="TODOlistAPI/Model/TODOlistContext.cs" />
+      <File FileName="TodoAPIUnitTests/UnitTest1.cs" Line="1" Column="1" />
+      <File FileName="TodoAPIUnitTests/TodoCountrollerUnitTests.cs" Line="23" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="TODOlistAPI" expanded="True">
+            <Node name="TodoAPIUnitTests" expanded="True">
+              <Node name="TodoCountrollerUnitTests.cs" selected="True" />
+            </Node>
             <Node name="TODOlistAPI" expanded="True">
-              <Node name="Model" expanded="True" />
-              <Node name="Startup.cs" selected="True" />
+              <Node name="Controllers" expanded="True" />
             </Node>
           </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="TODOlistAPI" expanded="True" selected="True" />
         </State>
       </Pad>
     </Pads>

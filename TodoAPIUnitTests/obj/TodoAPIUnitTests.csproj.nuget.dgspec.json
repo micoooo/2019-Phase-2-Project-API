@@ -1,0 +1,147 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/michaelchung/Desktop/TODOlistAPI/TodoAPIUnitTests/TodoAPIUnitTests.csproj": {}
+  },
+  "projects": {
+    "/Users/michaelchung/Desktop/TODOlistAPI/TodoAPIUnitTests/TodoAPIUnitTests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/michaelchung/Desktop/TODOlistAPI/TodoAPIUnitTests/TodoAPIUnitTests.csproj",
+        "projectName": "TodoAPIUnitTests",
+        "projectPath": "/Users/michaelchung/Desktop/TODOlistAPI/TodoAPIUnitTests/TodoAPIUnitTests.csproj",
+        "packagesPath": "/Users/michaelchung/.nuget/packages/",
+        "outputPath": "/Users/michaelchung/Desktop/TODOlistAPI/TodoAPIUnitTests/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/michaelchung/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "/Users/michaelchung/Desktop/TODOlistAPI/TODOlistAPI/TODOlistAPI.csproj": {
+                "projectPath": "/Users/michaelchung/Desktop/TODOlistAPI/TODOlistAPI/TODOlistAPI.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "EntityFramework": {
+              "target": "Package",
+              "version": "[6.2.0, )"
+            },
+            "MSTest.TestAdapter": {
+              "target": "Package",
+              "version": "[1.4.0, )"
+            },
+            "MSTest.TestFramework": {
+              "target": "Package",
+              "version": "[1.4.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.InMemory": {
+              "target": "Package",
+              "version": "[2.2.6, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.0.1, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "/Users/michaelchung/Desktop/TODOlistAPI/TODOlistAPI/TODOlistAPI.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/michaelchung/Desktop/TODOlistAPI/TODOlistAPI/TODOlistAPI.csproj",
+        "projectName": "TODOlistAPI",
+        "projectPath": "/Users/michaelchung/Desktop/TODOlistAPI/TODOlistAPI/TODOlistAPI.csproj",
+        "packagesPath": "/Users/michaelchung/.nuget/packages/",
+        "outputPath": "/Users/michaelchung/Desktop/TODOlistAPI/TODOlistAPI/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/michaelchung/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.AspNetCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.1, )",
+              "autoReferenced": true
+            },
+            "Microsoft.AspNetCore.Razor.Design": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.2, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[4.0.1, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}
